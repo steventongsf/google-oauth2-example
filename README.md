@@ -1,4 +1,5 @@
 * __Overview__
+
 The Maven java project uses Spring boot to work with a third party authentication server (Google).
 
 * Initialize project:
