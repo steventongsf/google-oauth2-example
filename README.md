@@ -1,5 +1,7 @@
+* __Overview__
+The Maven java project uses Spring boot to work with a third party authentication server (Google).
 
-** Initialize project:
+* Initialize project:
  __https://start.spring.io/__
  
  * Go to Google API console and create an OAuth 2.0 credential
