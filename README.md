@@ -1,7 +1,8 @@
-* __Overview__
+# __Overview__
 
 The Maven java project uses Spring boot to work with a third party authentication server (Google).
 
+# Prerequisite Steps for enabling Authentication
 * Initialize project:
  __https://start.spring.io/__
  
