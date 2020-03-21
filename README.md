@@ -1,5 +1,5 @@
 
-* Initialize project:
+** Initialize project:
  __https://start.spring.io/__
  
  * Go to Google API console and create an OAuth 2.0 credential
